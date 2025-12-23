@@ -8,7 +8,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+homeworks/homework3/nlp2.ipynb
 # Distribution / packaging
 .Python
 build/
